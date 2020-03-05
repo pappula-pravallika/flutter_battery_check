@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutterbatterycheck (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutterbatterycheck (from `.symlinks/plugins/flutterbatterycheck/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutterbatterycheck:
+    :path: ".symlinks/plugins/flutterbatterycheck/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutterbatterycheck: 32f0fcc81bc5ba507d20090bb928675373411f9f
+
+PODFILE CHECKSUM: 1b66dae606f75376c5f2135a8290850eeb09ae83
+
+COCOAPODS: 1.8.4
